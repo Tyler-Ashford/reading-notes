@@ -13,3 +13,9 @@ Growth mindset to me means always being open to learn new things. Always underst
 
 [class1](class1.md)
 [class2](class2.md)
+[class3](class3.md)
+[class4](class4.md)
+[class5](class5.md)
+[class6](class6.md)
+[class7](class7.md)
+[class8](class8.md)
